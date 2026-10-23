@@ -13,5 +13,5 @@ Interested in AI, useful tools, and personal projects.
 
 ## Social media
 
-<a href="https://discord.com/users/512981369035685908"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" /></a>
 <a href="https://t.me/danii1ka"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="https://discord.com/users/512981369035685908"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" /></a>
