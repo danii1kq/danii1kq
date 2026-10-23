@@ -1,6 +1,6 @@
 # danii1kq
 
-Student from Kazakhstan, learning by building.
+Student at Narxoz University in Almaty, Kazakhstan.
 Interested in AI, useful tools, and personal projects.
 
 ## Projects
