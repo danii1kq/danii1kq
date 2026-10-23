@@ -1,6 +1,6 @@
 # danii1kq
 
-Student at Narxoz University in Almaty, Kazakhstan.
+Student at Narxoz University in Almaty, Kazakhstan.  
 Interested in AI, useful tools, and personal projects.
 
 ## Projects
