@@ -8,7 +8,7 @@ Interested in AI, useful tools, and personal projects.
 | Project | Description | Status |
 | --- | --- | --- |
 | [Telegram → Obsidian](https://github.com/danii1kq/telegram-to-obsidian_ai-agent) | Turn messages into connected notes with AI. | Personal project |
-| [DocGen](https://github.com/danii1kq/docgen_telegram-mini-app) | A Telegram Mini App for document orders and AI-assisted generation. | Personal project |
+| [DocGen](https://github.com/danii1kq/docgen_telegram-mini-app) | A Telegram Mini App for document orders and AI generation. | Personal project |
 | [Canvas Bot](https://github.com/danii1kq/narxoz-canvas-bot) | Assignment and grade notifications for Canvas LMS. | Frozen |
 
 ## Social media
